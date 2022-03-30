@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "WhatsApp API",
   "homepage": "https://github.com/Zenoixnoize/staX-API",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -29,7 +27,7 @@
     "lint": "eslint ./src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint ./src --fix --ext .js,.ts,.jsx,.tsx"
   },
-  "author": "Adhiraj Singh",
+  "author": "Zenoixnoize",
   "license": "MIT",
   "repository": {
     "url": "git@github.com:adiwajshing/baileys.git"
