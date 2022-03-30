@@ -1,8 +1,8 @@
 {
-  "name": "starx-api",
+  "name": "tesla-x",
   "version": "1.0.0",
   "description": "WhatsApp API",
-  "homepage": "https://github.com/adiwajshing/Baileys",
+  "homepage": "https://github.com/Zenoixnoize/staX-API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
