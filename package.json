@@ -1,6 +1,6 @@
 {
-  "name": "@adiwajshing/baileys",
-  "version": "4.0.2",
+  "name": "starx-api",
+  "version": "1.0.0",
   "description": "WhatsApp API",
   "homepage": "https://github.com/adiwajshing/Baileys",
   "main": "lib/index.js",
